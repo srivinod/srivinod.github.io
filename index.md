@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## S Vinodkumar (srivinod)
 
-You can use the [editor on GitHub](https://github.com/srivinod/srivinod.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Full stack Developer at HanDigital solution. I'm a tech guy with an entrepreneurial spirit and Open Source enthusiast.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With 4+ years of experience on my back, I have demonstrated history of working upon large scale enterprise level applications. Having delivered several solutions for the domains including Consulting firms, Market research organizations and leisure industry, I have gained hands-on experience in all stages of enterprise application development along with the ability to understand customer needs, communicate effectively and adapting well to changes in workplace environments. Turning ideas into real world solutions is my key strength, which compliments my love for learning new technologies and solving challenging problems. I always try to make a positive impact in the organizations I work at.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srivinod/srivinod.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to reach out if you would like to learn more about me.
+Email Me : vinodsemailbox@gmail.com
