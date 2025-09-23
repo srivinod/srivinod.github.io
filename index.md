@@ -27,7 +27,7 @@ I am equally excited to collaborate with **companies, startups, and freelance cl
 
 ## 🌟 Portfolio Highlights  
 
-### 🔹 **Standard Chartered Mobile Banking**  
+### 🔹 **Mobile Banking**  
 - Delivered secure, multi-country banking features across Asia.  
 - Implemented **Binimoy (UPI-like system)** in Bangladesh for real-time payments.  
 - Improved performance and SEO with **Next.js SSR/SSG**.  
