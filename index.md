@@ -9,7 +9,7 @@ Helping companies and startups build **scalable, high-performance, and user-frie
 
 I am a frontend-focused full stack developer with over 12 years of experience delivering enterprise-grade solutions and modern digital products. I specialize in **React, Next.js, Ember.js, TypeScript, Node.js**, and scalable UI/UX development.  
 
-I’ve worked with global enterprises (like **Standard Chartered Bank**) as well as smaller organizations, consistently delivering **high-quality solutions ahead of deadlines**. My passion lies in **turning ideas into real-world applications** that are fast, secure, and user-friendly.  
+I’ve worked with global enterprises (like **Popular Bank App**) as well as smaller organizations, consistently delivering **high-quality solutions ahead of deadlines**. My passion lies in **turning ideas into real-world applications** that are fast, secure, and user-friendly.  
 
 I am equally excited to collaborate with **companies, startups, and freelance clients** who are looking for reliable expertise in building modern applications.  
 
@@ -29,7 +29,7 @@ I am equally excited to collaborate with **companies, startups, and freelance cl
 
 ### 🔹 **Mobile Banking**  
 - Delivered secure, multi-country banking features across Asia.  
-- Implemented **Binimoy (UPI-like system)** in Bangladesh for real-time payments.  
+- Implemented **(UPI-like system)** in Bangladesh for real-time payments.  
 - Improved performance and SEO with **Next.js SSR/SSG**.  
 
 **Tech:** React, Next.js, Ember.js, Node.js, GraphQL, Express.js  
