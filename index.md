@@ -1,10 +1,18 @@
-## S Vinodkumar (srivinod)
+## S. Vinodkumar (srivinod)
 
-Full stack Developer at HanDigital solution. I'm a tech guy with an entrepreneurial spirit and Open Source enthusiast.
+**ReactJS / Frontend Developer | 12+ Years of Experience**
 
-With 4+ years of experience on my back, I have demonstrated history of working upon large scale enterprise level applications. Having delivered several solutions for the domains including Consulting firms, Market research organizations and leisure industry, I have gained hands-on experience in all stages of enterprise application development along with the ability to understand customer needs, communicate effectively and adapting well to changes in workplace environments. Turning ideas into real world solutions is my key strength, which compliments my love for learning new technologies and solving challenging problems. I always try to make a positive impact in the organizations I work at.
+I’m a frontend-focused full stack developer with 12 years of experience designing and building scalable, high-performance web applications. I specialize in **React, Next.js, Ember.js, JavaScript (ES6+), TypeScript, Node.js**, and modern UI frameworks.  
 
+Over the years, I have delivered enterprise-grade solutions across industries such as **banking, consulting, market research, and digital platforms**. My work has ranged from architecting new products to improving performance, accessibility, and user experience on large-scale applications.  
 
-Feel free to reach out if you would like to learn more about me.
+Highlights of my experience:
+- Implemented **mobile banking solutions** (Standard Chartered) across multiple countries with features like secure fund transfers and UPI-like payments (Binimoy).  
+- Built **GraphQL APIs**, reusable React components, and scalable state management with Redux, improving performance and maintainability.  
+- Optimized applications with **SSR/SSG using Next.js**, reducing load times and boosting SEO.  
+- Experienced in **leading UI teams**, mentoring developers, and driving best practices.  
 
-<br>Email Me : vinodsemailbox@gmail.com
+I’m passionate about **turning ideas into real-world solutions**, solving complex problems, and constantly learning new technologies to stay ahead in the fast-moving frontend landscape.  
+
+📧 **Email:** [vinodsemailbox@gmail.com](mailto:vinodsemailbox@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/srivinod](https://www.linkedin.com/in/srivinod)  
