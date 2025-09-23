@@ -5,7 +5,7 @@ Helping companies and startups build **scalable, high-performance, and user-frie
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I am a frontend-focused full stack developer with over 12 years of experience delivering enterprise-grade solutions and modern digital products. I specialize in **React, Next.js, Ember.js, TypeScript, Node.js**, and scalable UI/UX development.  
 
