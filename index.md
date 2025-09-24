@@ -1,5 +1,3 @@
-# Vinodkumar S 
-
 **ReactJS / Frontend Developer | 12+ Years of Experience**  
 Helping companies and startups build **scalable, high-performance, and user-friendly applications**.  
 
@@ -17,11 +15,11 @@ I am equally excited to collaborate with **companies, startups, and freelance cl
 
 ## 🛠 What I Offer  
 
-✅ **Custom Web Applications** — High-performance, scalable, and secure solutions built with React, Next.js, Node.js.  
-✅ **UI/UX Development** — Clean, modern, and accessible interfaces following WCAG 2.1 standards.  
-✅ **Performance Optimization** — Faster load times, SSR/SSG with Next.js, API efficiency with GraphQL.  
-✅ **Team Leadership & Mentoring** — Guiding frontend teams to follow best practices and deliver faster.  
-✅ **Freelance Projects** — End-to-end development from idea to deployment on AWS/DigitalOcean.  
+**Custom Web Applications** — High-performance, scalable, and secure solutions built with React, Next.js, Node.js.  
+**UI/UX Development** — Clean, modern, and accessible interfaces following WCAG 2.1 standards.  
+**Performance Optimization** — Faster load times, SSR/SSG with Next.js, API efficiency with GraphQL.  
+**Team Leadership & Mentoring** — Guiding frontend teams to follow best practices and deliver faster.  
+**Freelance Projects** — End-to-end development from idea to deployment on AWS/DigitalOcean.  
 
 ---
 
@@ -85,14 +83,6 @@ I am equally excited to collaborate with **companies, startups, and freelance cl
 **Databases:** MySQL, MongoDB  
 **Cloud & DevOps:** AWS, DigitalOcean, Azure DevOps (CI/CD)  
 **Visualization & Tools:** D3.js, Axios, JWT, Git, Bitbucket, Postman, Figma, GitHub Copilot  
-
----
-
-## 📜 Certifications  
-
-- Mastering JavaScript — *Udemy (2024)*  
-- Banking Industry L1 — *Capgemini Certified (2024)*  
-- Mastering React — *Capgemini Certified (2024)*  
 
 ---
 
