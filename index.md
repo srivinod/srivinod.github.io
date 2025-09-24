@@ -54,6 +54,30 @@ I am equally excited to collaborate with **companies, startups, and freelance cl
 
 ---
 
+## 💼 Other Works  
+
+### 🔹 [Mama Health Co.](https://mamahealthco.com/)  
+- Personalized meal plans and home delivery services curated by expert nutritionists.  
+- Optimized UX/UI for better navigation and accessibility.  
+
+### 🔹 [BSD Education](https://www.bsd.edu.in/)  
+- Platform empowering educators with digital skills through content and software solutions.  
+- Refined interface for smoother engagement and learning.  
+
+### 🔹 [Handigital](https://www.handigital.com/)  
+- India’s leading IT-BPM talent intelligence platform.  
+- Enhanced website design and usability to streamline talent insights.  
+
+### 🔹 [Nextura AI](https://www.nextura.ai/)  
+- AI-driven business transformation solutions.  
+- Improved design and UI to clearly communicate AI offerings.  
+
+### 🔹 [ResearchFox](https://researchfox.com/)  
+- Market research and consulting solutions for business strategy and analytics.  
+- Optimized UI for clear communication and better user interaction.  
+
+---
+
 ## 🛠 Skills  
 
 **Frontend:** React, Next.js, Ember.js, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, Tailwind, Bootstrap  
@@ -78,4 +102,3 @@ I am equally excited to collaborate with **companies, startups, and freelance cl
 🔗 **LinkedIn:** [linkedin.com/in/srivinod](https://www.linkedin.com/in/srivinod)  
 
 ---
-
