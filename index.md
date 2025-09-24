@@ -19,7 +19,7 @@ I am equally excited to collaborate with **companies, startups, and freelance cl
 
 🔹**Custom Web Applications** - Secure scalable solutions built with React, Next.js, Node.js.  
 🔹**UI/UX Development** - Clean, modern, and accessible interfaces following WCAG 2.1 standards.  
-🔹**Performance Optimization** - Faster load times, SSR/SSG with Next.js, API efficiency with GraphQL.  
+🔹**Performance Optimization** - Faster load times, SSR/SSG, API efficiency with GraphQL.  
 🔹**Team Leadership & Mentoring** - Mentor frontend teams for best practices and deliver faster.  
 🔹**Freelance Projects** - End-to-end development from idea to deployment on AWS/DigitalOcean/Vercel.  
 
